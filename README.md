@@ -11,6 +11,7 @@ Also you can write 3 digits, then put 2 spaces, then 3 digits, then 3 digits. Yo
 
 ## Examples
 
+```
 5 5 5 5 5 5 5 5 5
 5 5 5 5 5 5 5 5 5
 5 5 5 5 5 5 5 5 5
@@ -21,6 +22,8 @@ Also you can write 3 digits, then put 2 spaces, then 3 digits, then 3 digits. Yo
 5 5 5 5 5 5 5 5 5
 5 5 5 5 5 5 5 5 5
 False
+```
+
 
 9 1 8 5 7 2 6 4 3
 7 5 3 6 9 4 1 8 2
