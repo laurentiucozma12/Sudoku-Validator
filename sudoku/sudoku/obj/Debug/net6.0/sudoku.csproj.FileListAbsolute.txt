@@ -1,0 +1,15 @@
+G:\Programming\Proiecte\C Sharp\Sudoku\sudoku\sudoku\bin\Debug\net6.0\sudoku.exe
+G:\Programming\Proiecte\C Sharp\Sudoku\sudoku\sudoku\bin\Debug\net6.0\sudoku.deps.json
+G:\Programming\Proiecte\C Sharp\Sudoku\sudoku\sudoku\bin\Debug\net6.0\sudoku.runtimeconfig.json
+G:\Programming\Proiecte\C Sharp\Sudoku\sudoku\sudoku\bin\Debug\net6.0\sudoku.dll
+G:\Programming\Proiecte\C Sharp\Sudoku\sudoku\sudoku\bin\Debug\net6.0\sudoku.pdb
+G:\Programming\Proiecte\C Sharp\Sudoku\sudoku\sudoku\obj\Debug\net6.0\sudoku.csproj.AssemblyReference.cache
+G:\Programming\Proiecte\C Sharp\Sudoku\sudoku\sudoku\obj\Debug\net6.0\sudoku.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\Proiecte\C Sharp\Sudoku\sudoku\sudoku\obj\Debug\net6.0\sudoku.AssemblyInfoInputs.cache
+G:\Programming\Proiecte\C Sharp\Sudoku\sudoku\sudoku\obj\Debug\net6.0\sudoku.AssemblyInfo.cs
+G:\Programming\Proiecte\C Sharp\Sudoku\sudoku\sudoku\obj\Debug\net6.0\sudoku.csproj.CoreCompileInputs.cache
+G:\Programming\Proiecte\C Sharp\Sudoku\sudoku\sudoku\obj\Debug\net6.0\sudoku.dll
+G:\Programming\Proiecte\C Sharp\Sudoku\sudoku\sudoku\obj\Debug\net6.0\refint\sudoku.dll
+G:\Programming\Proiecte\C Sharp\Sudoku\sudoku\sudoku\obj\Debug\net6.0\sudoku.pdb
+G:\Programming\Proiecte\C Sharp\Sudoku\sudoku\sudoku\obj\Debug\net6.0\sudoku.genruntimeconfig.cache
+G:\Programming\Proiecte\C Sharp\Sudoku\sudoku\sudoku\obj\Debug\net6.0\ref\sudoku.dll
